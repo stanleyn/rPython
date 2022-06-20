@@ -10,7 +10,7 @@ In systems where several Python versions coexist, the user can choose the Python
 to use at installation time. By default, the package will be installed using the Python
 version given by
 
-$ python --version
+$ python3 --version
 
 but it is possible to select a different one if the RPYTHON_PYTHON_VERSION environment 
 variable is appropriately set.
